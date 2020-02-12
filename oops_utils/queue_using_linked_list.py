@@ -40,6 +40,17 @@ class Queue:
             self.rear = None
         return str(temp.data)
 
+    def de_queue_data(self):
+
+        if self.is_empty():
+            return
+        temp = self.front
+        self.front = temp.next
+
+        if self.front is None:
+            self.rear = None
+        return temp.data
+        
     def print_list(self):
         if self.is_empty():
             return
