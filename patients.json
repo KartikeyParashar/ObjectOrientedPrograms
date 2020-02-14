@@ -1,0 +1,46 @@
+{
+  "Patient": [
+                {
+                  "Name" : "Archana Barot",
+                  "ID" : 12,
+                  "Age": 34,
+                  "Contact Info": "8934759342"
+                },
+                {
+                  "Name" : "Amit Singhania",
+                  "ID" : 17,
+                  "Age": 45,
+                  "Contact Info": "9764766746"
+                },
+                {
+                  "Name" : "Shekhar Verma",
+                  "ID" : 12,
+                  "Age": 35,
+                  "Contact Info": "7267426283"
+                },
+                {
+                  "Name" : "Madan Dhakad",
+                  "ID" : 13,
+                  "Age": 18,
+                  "Contact Info": "8998349058"
+                },
+                {
+                  "Name" : "Aanjaney Kaur",
+                  "ID" : 9,
+                  "Age": 47,
+                  "Contact Info": "7862368423"
+                },
+                {
+                  "Name" : "Prince Didwania",
+                  "ID" : 23,
+                  "Age": 31,
+                  "Contact Info": "8947237422"
+                },
+                {
+                  "Name" : "Charanjeet Singh",
+                  "ID" : 34,
+                  "Age": 29,
+                  "Contact Info": "9478974897"
+                }
+             ]
+}

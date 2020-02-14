@@ -1,0 +1,66 @@
+{
+  "Dr.Naganath Narasimhan": [
+                                {
+                                  "PatientName" : "Amit Singhania",
+                                  "ID" : 17,
+                                  "PatientAge": 45,
+                                  "Patient Contact Info": "9764766746",
+                                  "Time": "Both"
+                                }
+                             ],
+  "Dr.Ranjit D Nagpal":      [
+                                  {
+                                    "PatientName" : "Madan Dhakad",
+                                    "ID" : 13,
+                                    "PatientAge": 18,
+                                    "Patient Contact Info": "8998349058",
+                                    "Time": "PM"
+                                  }
+                             ],
+  "Dr.Meenal Hastak":      [
+                                  {
+                                    "PatientName" : "Aanjaney Kaur",
+                                    "ID" : 9,
+                                    "PatientAge": 47,
+                                    "Patient Contact Info": "7862368423",
+                                    "Time": "AM"
+                                  }
+                             ],
+  "Dr.Saurabh Malviya":      [
+                                  {
+                                     "PatientName" : "Charanjeet Singh",
+                                     "ID" : 34,
+                                     "PatientAge": 29,
+                                     "Patient Contact Info": "9478974897",
+                                     "Time": "AM"
+                                  }
+                             ],
+  "Dr.Purna Kurkure":        [
+                                  {
+                                     "PatientName" : "Prince Didwania",
+                                     "ID" : 23,
+                                     "PatientAge": 31,
+                                     "Patient Contact Info": "8947237422",
+                                     "Time": "Both"
+                                  }
+                             ],
+  "Dr.Hemraj B Chandaliya":      [
+                                  {
+                                    "PatientName" : "Shekhar Verma",
+                                    "ID" : 12,
+                                    "PatientAge": 35,
+                                    "Patient Contact Info": "7267426283",
+                                    "Time": "PM"
+                                  }
+                             ],
+  "Dr.KP Sanghvi":           [
+                                  {
+                                    "PatientName" : "Archana Barot",
+                                    "ID" : 12,
+                                    "PatientAge": 34,
+                                    "Patient Contact Info": "8934759342",
+                                    "Time": "AM"
+                                  }
+                             ]
+
+}

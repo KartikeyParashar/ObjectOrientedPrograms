@@ -1,0 +1,46 @@
+{
+  "Doctors": [
+                {
+                  "Name" : "Dr.Naganath Narasimhan",
+                  "ID" : 11845,
+                  "Age": "Geriatric",
+                  "Contact Info": "Both"
+                },
+                {
+                  "Name" : "Dr.Ranjit D Nagpal",
+                  "ID" : 34572,
+                  "Age": "Neurosurgery",
+                  "Contact Info": "PM"
+                },
+                {
+                  "Name" : "Dr.Meenal Hastak",
+                  "ID" : 45612,
+                  "Age": "Pathology",
+                  "Contact Info": "AM"
+                },
+                {
+                  "Name" : "Dr.Saurabh Malviya",
+                  "ID" : 16783,
+                  "Age": "Immunology",
+                  "Contact Info": "AM"
+                },
+                {
+                  "Name" : "Dr.Purna Kurkure",
+                  "ID" : 78456,
+                  "Age": "Hemato Oncology",
+                  "Contact Info": "Both"
+                },
+                {
+                  "Name" : "Dr.Hemraj B Chandaliya",
+                  "ID" : 78523,
+                  "Age": "Endocrinology",
+                  "Contact Info": "PM"
+                },
+                {
+                  "Name" : "Dr.KP Sanghvi",
+                  "ID" : 78934,
+                  "Age": "Pediatrics",
+                  "Contact Info": "AM"
+                }
+             ]
+}
